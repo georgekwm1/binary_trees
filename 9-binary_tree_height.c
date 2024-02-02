@@ -3,9 +3,9 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_height:  Calculates the height of a given binary tree.
+ * binary_tree_height -  Calculates the height of a given binary tree.
  * @tree: The root node of the binary tree.
- * Returns:  The height of the binary tree.
+ * Return:  The height of the binary tree.
  * 
 */
 

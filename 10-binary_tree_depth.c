@@ -3,7 +3,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_depth:  Calculates the depth of a given binary tree.
+ * binary_tree_depth -  Calculates the depth of a given binary tree.
  * @tree: The root node of the binary tree.
  * Return:  The depth of the binary tree.
 */
