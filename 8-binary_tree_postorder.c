@@ -4,11 +4,10 @@
 
 /**
  * binary_tree_inorder - function that goes through
- *  a binary tree using post-order traversal
+ * a binary tree using post-order traversal
  * @tree:  pointer to the root node of the binary tree
  * @func:  function to apply on each visited node
  * Return: Nothing
- * 
 */
 
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
